@@ -1,22 +1,5 @@
-{
-  "name": "acepyr-intelligence-quest",
-  "version": "1.0.0",
-  "description": "A colorful Web3 community quest dashboard for Acepyr with wallet interaction, daily check-in, streaks, points, popups and intelligence economy inspired UI.",
-  "main": "index.js",
-  "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview",
-    "deploy": "vite build"
-  },
-  "dependencies": {
-    "@vitejs/plugin-react": "latest",
-    "vite": "latest",
-    "react": "latest",
-    "react-dom": "latest",
-    "ethers": "latest",
-    "lucide-react": "latest",
-    "canvas-confetti": "latest"
-  },
-  "devDependencies": {}
+"scripts": {
+  "dev": "vite",
+  "build": "vite build",
+  "preview": "vite preview"
 }
